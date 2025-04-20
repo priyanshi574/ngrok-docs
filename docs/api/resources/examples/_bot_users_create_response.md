@@ -1,13 +1,10 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Response
-
 ```json
 {
-	"active": true,
-	"created_at": "2025-03-26T10:07:05Z",
-	"id": "bot_2uqkjNi7H8c06G6k9iZWYUJjnak",
-	"name": "new bot user from API",
-	"uri": "https://api.ngrok.com/bot_users/bot_2uqkjNi7H8c06G6k9iZWYUJjnak"
+  "active": true,
+  "created_at": "2025-04-20T10:06:56Z",
+  "id": "bot_2vzMnaSpAG3vsoYZ6fuJ5JE586o",
+  "name": "new bot user from API",
+  "uri": "https://api.ngrok.com/bot_users/bot_2vzMnaSpAG3vsoYZ6fuJ5JE586o"
 }
-```
